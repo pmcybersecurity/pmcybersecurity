@@ -14,4 +14,4 @@ Cybersecurity initiative Focussing on:
 
 <br>
 
-{![Our Website](https://img.shields.io/badge/Our%20Website-EC4899?style=for-the-badge)(https://pmsecurity.online)]
+[![Our Website](https://img.shields.io/badge/Our%20Website-EC4899?style=for-the-badge)(https://pmsecurity.online)]
