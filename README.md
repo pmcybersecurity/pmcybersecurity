@@ -13,5 +13,4 @@ Cybersecurity initiative Focussing on:
 [![Python](https://img.shields.io/badge/Python-00D9FF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>
-
-[![Our Website](https://img.shields.io/badge/Our%20Website-EC4899?style=for-the-badge)(https://pmsecurity.online)]
+[![Our Website](https://img.shields.io/badge/Our%20Website-EC4899?style=for-the-badge)](https://pmsecurity.online)
