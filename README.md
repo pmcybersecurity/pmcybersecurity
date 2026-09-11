@@ -1,4 +1,6 @@
-Cybersecurity initiative Focussing on:
+## Hi there 👋
+
+WE are a Cybersecurity initiative Focussing on:
 - Securing The Web <br>
 - Vulnerability Discovery<br> 
 - Ethical Hacking <br>
